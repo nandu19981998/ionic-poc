@@ -1,0 +1,23 @@
+{
+  "name": "atlas-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web/index.js",
+  "scripts": {
+    "start:ionic": "cd web/frontend && ionic serve",
+    "start:express": "cd web && npm run dev",
+    "prod": "ionic build --prod && npm run serve",
+    "dev": "concurrently \"npm run start:express\" \"npm run start:ionic\" ",
+    "serve": "cd web && npm run serve"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "@ionic/cli": "^7.1.1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

@@ -1,0 +1,174 @@
+[{
+    "name": "AYS001 Beverly Hills",
+    "address": "1000 Beverly Hills, Los Angeles, CA, 95330",
+    "country": "United States",
+    "working_hours": {
+        "regular": {
+            "monday": [9, 6],
+            "tuesday": [9, 6],
+            "wednesday": [9, 6],
+            "thursday": [9, 6],
+            "friday": [9, 6],
+            "saturday": [9, 6],
+            "sunday": [9, 6]
+        },
+        "special": [{
+            "date": "2023-05-11",
+            "time": [9,2],
+            "tag": "Emergency"
+        }, {
+            "date": "2023-06-12",
+            "time": null,
+            "tag": "Holiday"
+        }]
+    }
+},
+{
+    "name": "AYS001 Beverly Hills",
+    "address": "1000 Beverly Hills, Los Angeles, CA, 95330",
+    "country": "United States",
+    "working_hours": {
+        "regular": {
+            "monday": [9, 6],
+            "tuesday": [9, 6],
+            "wednesday": [9, 6],
+            "thursday": [9, 6],
+            "friday": [9, 6],
+            "saturday": [9, 6],
+            "sunday": [9, 6]
+        },
+        "special": [{
+            "date": "2023-05-11",
+            "time": [9,2],
+            "tag": "Emergency"
+        }, {
+            "date": "2023-06-12",
+            "time": null,
+            "tag": "Holiday"
+        }]
+    }
+},
+{
+    "name": "AYS001 Beverly Hills",
+    "address": "1000 Beverly Hills, Los Angeles, CA, 95330",
+    "country": "United States",
+    "working_hours": {
+        "regular": {
+            "monday": [9, 6],
+            "tuesday": [9, 6],
+            "wednesday": [9, 6],
+            "thursday": [9, 6],
+            "friday": [9, 6],
+            "saturday": [9, 6],
+            "sunday": [9, 6]
+        },
+        "special": [{
+            "date": "2023-05-11",
+            "time": [9,2],
+            "tag": "Emergency"
+        }, {
+            "date": "2023-06-12",
+            "time": null,
+            "tag": "Holiday"
+        }]
+    }
+},
+{
+    "name": "AYS001 Beverly Hills",
+    "address": "1000 Beverly Hills, Los Angeles, CA, 95330",
+    "country": "United States",
+    "working_hours": {
+        "regular": {
+            "monday": [9, 6],
+            "tuesday": [9, 6],
+            "wednesday": [9, 6],
+            "thursday": [9, 6],
+            "friday": [9, 6],
+            "saturday": [9, 6],
+            "sunday": [9, 6]
+        },
+        "special": [{
+            "date": "2023-05-11",
+            "time": [9,2],
+            "tag": "Emergency"
+        }, {
+            "date": "2023-06-12",
+            "time": null,
+            "tag": "Holiday"
+        }]
+    }
+},
+{
+    "name": "AYS001 Beverly Hills",
+    "address": "1000 Beverly Hills, Los Angeles, CA, 95330",
+    "country": "United States",
+    "working_hours": {
+        "regular": {
+            "monday": [9, 6],
+            "tuesday": [9, 6],
+            "wednesday": [9, 6],
+            "thursday": [9, 6],
+            "friday": [9, 6],
+            "saturday": [9, 6],
+            "sunday": [9, 6]
+        },
+        "special": [{
+            "date": "2023-05-11",
+            "time": [9,2],
+            "tag": "Emergency"
+        }, {
+            "date": "2023-06-12",
+            "time": null,
+            "tag": "Holiday"
+        }]
+    }
+},
+{
+    "name": "AYS001 Beverly Hills",
+    "address": "1000 Beverly Hills, Los Angeles, CA, 95330",
+    "country": "United States",
+    "working_hours": {
+        "regular": {
+            "monday": [9, 6],
+            "tuesday": [9, 6],
+            "wednesday": [9, 6],
+            "thursday": [9, 6],
+            "friday": [9, 6],
+            "saturday": [9, 6],
+            "sunday": [9, 6]
+        },
+        "special": [{
+            "date": "2023-05-11",
+            "time": [9,2],
+            "tag": "Emergency"
+        }, {
+            "date": "2023-06-12",
+            "time": null,
+            "tag": "Holiday"
+        }]
+    }
+},{
+    "name": "AYS001 Beverly Hills",
+    "address": "1000 Beverly Hills, Los Angeles, CA, 95330",
+    "country": "United States",
+    "working_hours": {
+        "regular": {
+            "monday": [9, 6],
+            "tuesday": [9, 6],
+            "wednesday": [9, 6],
+            "thursday": [9, 6],
+            "friday": [9, 6],
+            "saturday": [9, 6],
+            "sunday": [9, 6]
+        },
+        "special": [{
+            "date": "2023-05-11",
+            "time": [9,2],
+            "tag": "Emergency"
+        }, {
+            "date": "2023-06-12",
+            "time": null,
+            "tag": "Holiday"
+        }]
+    }
+}]

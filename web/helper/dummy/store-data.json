@@ -1,0 +1,1252 @@
+{
+  "stores": [
+    {
+    "basic": {
+      "store_id": "AYS001",
+      "store_name": "Beverly Hills",
+      "email_address": "beverlyhills@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1000 Beverly Hills",
+      "address_line2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "95330",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Grove",
+      "timezone": "PST"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AYS002",
+      "store_name": "Santa Monica",
+      "email_address": "beverlyhills@aloyoga.com",
+      "active": true
+    },
+    "address": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1422 3rd St Promenade",
+      "address_line2": null,
+      "city": "Santa Monica",
+      "state": "CA",
+      "zipcode": "90401",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Grove",
+      "timezone": "PST"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },{
+    "basic": {
+      "store_id": "AYS003",
+      "store_name": "The Grove",
+      "email_address": "beverlyhills@aloyoga.com",
+      "active": true
+    },
+    "address": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "189 The Grove Drive",
+      "address_line2": null,
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90036",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Grove",
+      "timezone": "PST"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY004",
+      "store_name": "Soho",
+      "email_address": "sopho@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "96 Spring Street",
+      "address_line2": null,
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY005",
+      "store_name": "Palisades",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY006",
+      "store_name": "006 Williamsburg",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "241 Bedford Avenue",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "NY",
+      "zipcode": "11211",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY007",
+      "store_name": "007 Flatiron",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "164 5th Avenue",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY008",
+      "store_name": "008 UTC",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "4304 La Jolla Village Drive",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY009",
+      "store_name": "M2112",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY010",
+      "store_name": "010 Austin",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY011",
+      "store_name": "Next 11",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY012",
+      "store_name": "Next 12",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY013",
+      "store_name": "Next 13",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY014",
+      "store_name": "Next 14",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY015",
+      "store_name": "Next 15",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  },
+  {
+    "basic": {
+      "store_id": "AY016",
+      "store_name": "Next 16",
+      "email_address": "pal@aloyoga.com",
+      "active": true
+    },
+    "additional": {
+      "store_type": null,
+      "is_active": null,
+      "ship_from_store_enabled": null,
+      "curbside_pickup_enabled": null,
+      "pickup_enabled": null,
+      "start_date": null,
+      "end_date": null,
+      "created_by": null,
+      "last_modified_by": null,
+      "created_date": null,
+      "last_modified_date": null
+    },
+    "location": {
+      "latitude": 45.97879,
+      "longitude": -34.978968,
+      "address_line1": "1060 Swarthmore Ave",
+      "address_line2": null,
+      "city": "Pacific",
+      "state": "CA",
+      "zipcode": "10012",
+      "country": "United States",
+      "phone_number": "222-333-4444",
+      "mall_name": "The Mall",
+      "timezone": "est"
+    },
+    "regular_hours": {
+      "Monday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Tuesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Wednesday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Thursday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Friday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Saturday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      },
+      "Sunday": {
+        "open_at": "9:00 AM",
+        "close_at": "6:00 PM"
+      }
+    },
+    "special_hours": [
+      {
+        "date": "2023-05-11",
+        "open_at": "9:00 AM",
+        "close_at": "2:00 PM",
+        "reason": "Emergency"
+      },
+      {
+        "date": "2023-06-12",
+        "open_at": null,
+        "close_at": null,
+        "reason": "Holiday"
+      }
+    ]
+  }
+]
+}
+  

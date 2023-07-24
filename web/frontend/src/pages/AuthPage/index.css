@@ -1,0 +1,19 @@
+.auth-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+    gap: 24px;
+    flex-basis: 360px;
+}
+
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.auth-container ion-input {
+    --highlight-color-focused: rgba(27, 26, 26, 0.747);
+}

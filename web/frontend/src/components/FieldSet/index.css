@@ -1,0 +1,29 @@
+.container {
+    border: 1px solid #122;
+    border-radius: 5px;
+    position: relative;
+}
+
+.container .title {
+    padding-inline: 8px;
+    position: absolute;
+    font-weight: bold;
+    background: #fff;
+    top: -30px;
+    left: 12px;
+}
+
+.container .content {
+    margin: 24px;
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 12px;
+}
+
+.container .content ion-input {
+    --highlight-color-focused: rgba(27, 26, 26, 0.747);
+}
+
+ion-select {
+    --highlight-color-focused: rgba(27, 26, 26, 0.747);
+}
